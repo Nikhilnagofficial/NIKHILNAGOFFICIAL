@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @NIKHILNAGOFFICIAL
 - 👀 I’m interested in ... 
-- 🌱 I’m currently Working.... in Gamana Solutions LLP
-- 💞️ I’m looking to collaborate on ... any online project using .Net
+- 🌱 I’m currently Working.... Available
+- 🌱 I was Working.... at Gamana Solutions LLP
+- 💞️ I’m looking to collaborate on ... any online project using .Net or Frontend related technology
 - 📫 How to reach me ... 
 
 <!---
